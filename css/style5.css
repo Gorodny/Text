@@ -1,0 +1,34 @@
+h1{
+    font-weight: normal;
+}
+h2{
+    font-weight: normal;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    color: yellow;
+}
+ul{
+    list-style: none;
+}
+.img{
+    margin: 20px;
+}
+figure{
+    border: solid 2px gray;
+    width: 300px;
+    text-align: left;
+    margin-left: auto;
+}

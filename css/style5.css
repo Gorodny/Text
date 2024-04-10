@@ -23,12 +23,9 @@ a:active{
 ul{
     list-style: none;
 }
-.img{
-    margin: 20px;
-}
-figure{
+.fi{
     border: solid 2px gray;
-    width: 300px;
-    text-align: left;
-    margin-left: auto;
+    float: right;
+    padding: 5px;
+    width: 250px;
 }
